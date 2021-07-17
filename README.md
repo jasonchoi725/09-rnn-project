@@ -17,3 +17,4 @@ recurrent neural network.
 
 
  
+빨리 끝내자
