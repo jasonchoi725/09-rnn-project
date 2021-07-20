@@ -20,3 +20,4 @@ recurrent neural network.
 빨리 끝내자
 
 공부
+하는중
