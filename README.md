@@ -25,3 +25,4 @@ recurrent neural network.
 하는중
 공부중
 하는중
+계속 한다
