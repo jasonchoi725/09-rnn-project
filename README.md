@@ -26,3 +26,4 @@ recurrent neural network.
 공부중
 하는중
 계속 한다
+프로젝트 들어감
