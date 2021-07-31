@@ -27,3 +27,4 @@ recurrent neural network.
 하는중
 계속 한다
 프로젝트 들어감
+하는중
