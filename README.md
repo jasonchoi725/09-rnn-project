@@ -29,3 +29,5 @@ recurrent neural network.
 프로젝트 들어감
 하는중
 해야지
+
+끝
